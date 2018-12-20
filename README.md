@@ -1,6 +1,6 @@
 # Menu creation app with ReactJS only
 
-## clone or download the reop
+## clone or download the repo
 
 git clone https://github.com/tlcodes/menucomposer.git
 
